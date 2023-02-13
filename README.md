@@ -1,24 +1,13 @@
-# hello_world
+# ShareYoutube2NotionUsingFlutter
+개인적 사용을 위해 작성한 코드  
+Code written for personal use
 
-A new Flutter project created with https://flutlab.io
+노션 토큰과 데이터베이스 ID를 등록한 후 사용  
+안드로이드 Only이며 IOS는 내가 안 써서 작성 안 함  
+유튜브에서 Sharing Intent(공유 기능)로 작동  
+다른 링크나 텍스트 넣어서 일어나는 일은 책임 안 짐
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+노션 테이블이 아래 양식에 맞는 테이블이어야 작동  
+|제목|채널|주소|
+|---|----|-----|
+|영상 제목|채널명|유튜브 주소|
